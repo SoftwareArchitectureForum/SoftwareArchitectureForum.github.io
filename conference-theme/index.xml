@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conference-themes on Software Architecture Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado Sept 25 - 29, 2017</title>
+    <link>https://softwarearchitectureforum.github.io/conference-theme/index.xml</link>
+    <description>Recent content in Conference-themes on Software Architecture Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado Sept 25 - 29, 2017</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://softwarearchitectureforum.github.io/conference-theme/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Conference Theme</title>
+      <link>https://softwarearchitectureforum.github.io/conference-theme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://softwarearchitectureforum.github.io/conference-theme/</guid>
+      <description>
+
+&lt;h2 id=&#34;theme-tba&#34;&gt;Theme: &lt;em&gt;TBA&lt;/em&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;(Topics here)&lt;/li&gt;
+&lt;li&gt;And lots more&lt;/li&gt;
+&lt;li&gt;Plus anything else anyone wants to talk about, of course&lt;/li&gt;
+&lt;li&gt;And our business track&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Although the theme sets the general tone of the conference, it doesn&amp;rsquo;t
+preclude session topics that might be considered &amp;ldquo;off theme.&amp;rdquo; The goal
+of the theme is to stimulate ideas, not to prevent discussion.&lt;/p&gt;
+
+&lt;h2 id=&#34;wednesday-hackathon&#34;&gt;Wednesday Hackathon&lt;/h2&gt;
+
+&lt;p&gt;Hackathons typically explore new technologies or even create new product
+prototypes. Past hackathons have ranged from hardware projects to the
+exploration of new languages, and some have focused on a particular product or
+technology. If you can get a group together that wants to explore a topic, go
+for it.&lt;/p&gt;
+
+&lt;p&gt;Hackathons take place in either the conference venue or the various houses
+that are rented by groups in town. The evening of the hackathon, results are
+presented in the &lt;em&gt;Hackathon Showcase Lightning Talks&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
