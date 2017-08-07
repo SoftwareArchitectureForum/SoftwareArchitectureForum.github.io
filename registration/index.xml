@@ -16,10 +16,15 @@
       <guid>https://softwarearchitectureforum.github.io/registration/</guid>
       <description>
 
-&lt;form action=&#34;https://ti.to/mindview/software-architecture-forum-2017&#34; method=&#34;get&#34;&gt;
+&lt;form action=&#34;https://ti.to/mindview/software-architecture-forum-2017&#34;
+      method=&#34;get&#34; target=&#34;_blank&#34;&gt;
     &lt;input type=&#34;submit&#34; value=&#34;Registration Payment&#34;
          name=&#34;Submit&#34; id=&#34;frm1_submit&#34;
-         style=&#34;background:blue; cursor:pointer; font-size:20px; padding: 14px 40px;border-radius: 12px;&#34;
+         style=&#34;background:blue;
+                cursor:pointer;
+                font-size:20px;
+                padding: 14px 40px;
+                border-radius: 12px;&#34;
     /&gt;
 &lt;/form&gt;
 
