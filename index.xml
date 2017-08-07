@@ -509,7 +509,7 @@ seems to prevent most of the problems.&lt;/p&gt;&lt;/li&gt;
       method=&#34;get&#34; target=&#34;_blank&#34;&gt;
     &lt;input type=&#34;submit&#34; value=&#34;Registration Payment&#34;
          name=&#34;Submit&#34; id=&#34;frm1_submit&#34;
-         style=&#34;background:blue;
+         style=&#34;background:#1A4C7D;
                 color: white;
                 cursor:pointer;
                 font-size:20px;
