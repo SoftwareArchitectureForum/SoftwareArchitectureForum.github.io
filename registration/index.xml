@@ -21,6 +21,7 @@
     &lt;input type=&#34;submit&#34; value=&#34;Registration Payment&#34;
          name=&#34;Submit&#34; id=&#34;frm1_submit&#34;
          style=&#34;background:blue;
+                color: white;
                 cursor:pointer;
                 font-size:20px;
                 padding: 14px 40px;
