@@ -16,21 +16,17 @@
       <guid>https://softwarearchitectureforum.github.io/registration/</guid>
       <description>
 
-&lt;p&gt;&lt;em&gt;Price does not include skiing, which is optional. For beginners, ski
-instruction can be arranged. There is also cross-country skiing
-(cheaper), snowshoeing, and snowmobiling.&lt;/em&gt;&lt;/p&gt;
+&lt;form action=&#34;https://ti.to/mindview/software-architecture-forum-2017&#34; method=&#34;get&#34;&gt;
+    &lt;input type=&#34;submit&#34; value=&#34;Registration Payment&#34;
+         name=&#34;Submit&#34; id=&#34;frm1_submit&#34; /&gt;
+&lt;/form&gt;
 
-&lt;h2 id=&#34;step-1&#34;&gt;Step 1:&lt;/h2&gt;
+&lt;h2 id=&#34;next&#34;&gt;Next:&lt;/h2&gt;
 
-&lt;p&gt;Request to join the &lt;a href=&#34;http://groups.google.com/group/JavaPosseRoundup&#34;&gt;Conference
-Newsgroup&lt;/a&gt; using the
-email address where you would like to receive information about the
-conference (You can also post questions and arrange ride sharing and
-group house rentals, etc). NOTE: This address will not be used for
-anything else except the conference.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Once you&amp;rsquo;ve joined the group, you&amp;rsquo;ll receive a link to the payment
-form.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Request to join the [Conference Twist Group]() (&lt;span style=&#34;color:red&#34;&gt;Not
+set up yet&lt;/span&gt;). This is the central information hub for the conference.
+You can post any questions about the conference including those about ride
+sharing and group house rentals.&lt;/p&gt;
 </description>
     </item>
     
