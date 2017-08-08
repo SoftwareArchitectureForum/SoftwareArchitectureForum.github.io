@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Locations on Software Architecture Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado Sept 25 - 29, 2017</title>
-    <link>https://softwarearchitectureforum.github.io/location/index.xml</link>
+    <link>http://softwarearchitectureforum.com/location/index.xml</link>
     <description>Recent content in Locations on Software Architecture Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado Sept 25 - 29, 2017</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://softwarearchitectureforum.github.io/location/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://softwarearchitectureforum.com/location/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Location</title>
-      <link>https://softwarearchitectureforum.github.io/location/</link>
+      <link>http://softwarearchitectureforum.com/location/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://softwarearchitectureforum.github.io/location/</guid>
+      <guid>http://softwarearchitectureforum.com/location/</guid>
       <description>&lt;p&gt;Crested Butte is a small resort town located at about 9000 feet, near
 the continental divide. It is known for its skiing in the winter and
 hiking and mountain biking in the summer.&lt;/p&gt;

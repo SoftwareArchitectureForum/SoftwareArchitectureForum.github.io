@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software Architecture Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado Sept 25 - 29, 2017</title>
-    <link>https://softwarearchitectureforum.github.io/index.xml</link>
+    <link>http://softwarearchitectureforum.com/index.xml</link>
     <description>Recent content on Software Architecture Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado Sept 25 - 29, 2017</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://softwarearchitectureforum.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://softwarearchitectureforum.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Overview</title>
-      <link>https://softwarearchitectureforum.github.io/</link>
+      <link>http://softwarearchitectureforum.com/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://softwarearchitectureforum.github.io/</guid>
+      <guid>http://softwarearchitectureforum.com/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;font-size:150%&#34;&gt;Organized by Bruce Eckel&lt;br/&gt;&lt;br/&gt;
 &lt;span style=&#34;font-size:250%&#34;&gt;Sept 25 - 29, 2017&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
 &lt;span style=&#34;font-size:150%&#34;&gt;Attendance limited to 40&lt;br/&gt;
@@ -25,7 +25,7 @@ Butte events and need financial assistance,
 request&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;em&gt;I&amp;rsquo;m still stunned by how impactful WTF is .. each year I walk away with a sense of knowing what I need to focus on that will help make an impact on my team and our projects.&lt;/em&gt; &amp;ndash; Matt Brandt&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;I&amp;rsquo;m still stunned by how impactful WTF is &amp;hellip; each year I walk away with a sense of knowing what I need to focus on that will help make an impact on my team and our projects.&lt;/em&gt; &amp;ndash; Matt Brandt&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;em&gt;The roundup has been the best and most transformative conference of my life, by far. It&amp;rsquo;s directly responsible for getting me where I am.&lt;/em&gt; &amp;ndash; Joe Sondow&lt;/p&gt;&lt;/li&gt;
 
@@ -38,10 +38,10 @@ request&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
     
     <item>
       <title>Conference Theme</title>
-      <link>https://softwarearchitectureforum.github.io/conference-theme/</link>
+      <link>http://softwarearchitectureforum.com/conference-theme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://softwarearchitectureforum.github.io/conference-theme/</guid>
+      <guid>http://softwarearchitectureforum.com/conference-theme/</guid>
       <description>
 
 &lt;h2 id=&#34;theme-tba&#34;&gt;Theme: &lt;em&gt;TBA&lt;/em&gt;&lt;/h2&gt;
@@ -73,10 +73,10 @@ presented in the &lt;em&gt;Hackathon Showcase Lightning Talks&lt;/em&gt;.&lt;/p&
     
     <item>
       <title>An Open Spaces Conference</title>
-      <link>https://softwarearchitectureforum.github.io/open-spaces/</link>
+      <link>http://softwarearchitectureforum.com/open-spaces/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://softwarearchitectureforum.github.io/open-spaces/</guid>
+      <guid>http://softwarearchitectureforum.com/open-spaces/</guid>
       <description>
 
 &lt;p&gt;What&amp;rsquo;s the best thing that happened at the last conference you attended?
@@ -214,10 +214,10 @@ this.&amp;rdquo;&lt;/p&gt;
     
     <item>
       <title>Schedule</title>
-      <link>https://softwarearchitectureforum.github.io/schedule/</link>
+      <link>http://softwarearchitectureforum.com/schedule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://softwarearchitectureforum.github.io/schedule/</guid>
+      <guid>http://softwarearchitectureforum.com/schedule/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Sunday 6:00pm:&lt;/strong&gt;&lt;br /&gt;
 Welcome Barbeque at Bruce&amp;rsquo;s House (107 WhiteRock). Bring something
@@ -294,10 +294,10 @@ responsibility, although groups are likely to form. See
     
     <item>
       <title>Location</title>
-      <link>https://softwarearchitectureforum.github.io/location/</link>
+      <link>http://softwarearchitectureforum.com/location/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://softwarearchitectureforum.github.io/location/</guid>
+      <guid>http://softwarearchitectureforum.com/location/</guid>
       <description>&lt;p&gt;Crested Butte is a small resort town located at about 9000 feet, near
 the continental divide. It is known for its skiing in the winter and
 hiking and mountain biking in the summer.&lt;/p&gt;
@@ -340,10 +340,10 @@ lodging and the Crested Butte experience.&lt;/p&gt;
     
     <item>
       <title>Travel</title>
-      <link>https://softwarearchitectureforum.github.io/travel/</link>
+      <link>http://softwarearchitectureforum.com/travel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://softwarearchitectureforum.github.io/travel/</guid>
+      <guid>http://softwarearchitectureforum.com/travel/</guid>
       <description>
 
 &lt;h2 id=&#34;the-cheapest-way-on-your-own&#34;&gt;The Cheapest Way (On Your Own)&lt;/h2&gt;
@@ -365,7 +365,7 @@ Station.&lt;/p&gt;&lt;/li&gt;
 enough for email but not for streaming). The duration of the bus ride is
 roughly the same time it takes to drive yourself. You should buy your ticket
 online, when you make your airline reservation. When configured correctly,
-the bus ticket web page should look something like this: &lt;img src=&#34;https://SoftwareArchitectureForum.github.io/images/BusReservation.png&#34; alt=&#34;Bus
+the bus ticket web page should look something like this: &lt;img src=&#34;http://SoftwareArchitectureForum.com/images/BusReservation.png&#34; alt=&#34;Bus
 Ticket&#34; /&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Get off at the &lt;a href=&#34;http://www.the-powerstop.com/&#34;&gt;Powerstop Gas Station &amp;amp; Cafe&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
@@ -419,10 +419,10 @@ to Crested Butte, or you can rent a car.&lt;/li&gt;
     
     <item>
       <title>Lodging</title>
-      <link>https://softwarearchitectureforum.github.io/lodging/</link>
+      <link>http://softwarearchitectureforum.com/lodging/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://softwarearchitectureforum.github.io/lodging/</guid>
+      <guid>http://softwarearchitectureforum.com/lodging/</guid>
       <description>
 
 &lt;h3 id=&#34;group-houses&#34;&gt;Group Houses&lt;/h3&gt;
@@ -465,10 +465,10 @@ lodging and the Crested Butte experience.&lt;/p&gt;
     
     <item>
       <title>Altitude</title>
-      <link>https://softwarearchitectureforum.github.io/altitude/</link>
+      <link>http://softwarearchitectureforum.com/altitude/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://softwarearchitectureforum.github.io/altitude/</guid>
+      <guid>http://softwarearchitectureforum.com/altitude/</guid>
       <description>&lt;p&gt;We are at 9,000 feet in Crested Butte so you will feel the altitude. Tips for preventing altitude-hurt:&lt;/p&gt;
 
 &lt;ol&gt;
@@ -497,10 +497,10 @@ seems to prevent most of the problems.&lt;/p&gt;&lt;/li&gt;
     
     <item>
       <title>Registration</title>
-      <link>https://softwarearchitectureforum.github.io/registration/</link>
+      <link>http://softwarearchitectureforum.com/registration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://softwarearchitectureforum.github.io/registration/</guid>
+      <guid>http://softwarearchitectureforum.com/registration/</guid>
       <description>
 
 &lt;p&gt;&lt;br/&gt;&lt;form action=&#34;https://ti.to/mindview/software-architecture-forum-2017&#34;
@@ -529,10 +529,10 @@ conference including those about ride sharing and group house rentals.&lt;/p&gt;
     
     <item>
       <title>Contact</title>
-      <link>https://softwarearchitectureforum.github.io/contact/</link>
+      <link>http://softwarearchitectureforum.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://softwarearchitectureforum.github.io/contact/</guid>
+      <guid>http://softwarearchitectureforum.com/contact/</guid>
       <description>&lt;p&gt;Questions? Email Mindview LLC &lt;a href=&#34;mailto:mindviewinc@gmail.com&#34;&gt;mindviewinc@gmail.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;ul&gt;
