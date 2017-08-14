@@ -348,7 +348,7 @@
 				<img src="http://softwarearchitectureforum.com/images/SAF-banner.jpg">
 				</div>
 			
-			<h1>Location </h1>
+			<h1 style="border-bottom: 3px solid #174B7F;">Location </h1>
 
 			<p>Crested Butte is a small resort town located at about 9000 feet, near
 the continental divide. It is known for its skiing in the winter and
@@ -394,7 +394,7 @@ lodging and the Crested Butte experience.</p>
 				
 			</aside>
 
-			<footer class="footer">
+			<footer class="footer" style="background-color: #174B7F;">
 				
 
 <nav class="pagination" aria-label="Footer">
@@ -507,6 +507,16 @@ lodging and the Crested Butte experience.</p>
 
     
 
+    
+    <script>
+      var hrs = document.getElementsByTagName('hr');
+
+      for(var i = 0; i < hrs.length; i++){
+        var hr = hrs[i];
+        hr.style.borderColor = "#174B7F";
+      }
+    </script>
+    
     <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/highlight.min.js"></script>
     <script>hljs.initHighlightingOnLoad();</script>
   </body>

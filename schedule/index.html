@@ -348,7 +348,7 @@
 				<img src="http://softwarearchitectureforum.com/images/SAF-banner.jpg">
 				</div>
 			
-			<h1>Schedule </h1>
+			<h1 style="border-bottom: 3px solid #174B7F;">Schedule </h1>
 
 			<ul>
 <li><p><strong>Sunday 6:00pm:</strong><br />
@@ -428,7 +428,7 @@ responsibility, although groups are likely to form. See
 				
 			</aside>
 
-			<footer class="footer">
+			<footer class="footer" style="background-color: #174B7F;">
 				
 
 <nav class="pagination" aria-label="Footer">
@@ -541,6 +541,16 @@ responsibility, although groups are likely to form. See
 
     
 
+    
+    <script>
+      var hrs = document.getElementsByTagName('hr');
+
+      for(var i = 0; i < hrs.length; i++){
+        var hr = hrs[i];
+        hr.style.borderColor = "#174B7F";
+      }
+    </script>
+    
     <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/highlight.min.js"></script>
     <script>hljs.initHighlightingOnLoad();</script>
   </body>

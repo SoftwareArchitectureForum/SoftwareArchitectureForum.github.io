@@ -348,7 +348,7 @@
 				<img src="http://softwarearchitectureforum.com/images/SAF-banner.jpg">
 				</div>
 			
-			<h1>Conference Theme </h1>
+			<h1 style="border-bottom: 3px solid #174B7F;">Conference Theme </h1>
 
 			
 
@@ -397,7 +397,7 @@ presented in the <em>Hackathon Showcase Lightning Talks</em>.</p>
 				
 			</aside>
 
-			<footer class="footer">
+			<footer class="footer" style="background-color: #174B7F;">
 				
 
 <nav class="pagination" aria-label="Footer">
@@ -510,6 +510,16 @@ presented in the <em>Hackathon Showcase Lightning Talks</em>.</p>
 
     
 
+    
+    <script>
+      var hrs = document.getElementsByTagName('hr');
+
+      for(var i = 0; i < hrs.length; i++){
+        var hr = hrs[i];
+        hr.style.borderColor = "#174B7F";
+      }
+    </script>
+    
     <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/highlight.min.js"></script>
     <script>hljs.initHighlightingOnLoad();</script>
   </body>

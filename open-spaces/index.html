@@ -348,7 +348,7 @@
 				<img src="http://softwarearchitectureforum.com/images/SAF-banner.jpg">
 				</div>
 			
-			<h1>An Open Spaces Conference </h1>
+			<h1 style="border-bottom: 3px solid #174B7F;">An Open Spaces Conference </h1>
 
 			
 
@@ -489,7 +489,7 @@ this.&rdquo;</p>
 				
 			</aside>
 
-			<footer class="footer">
+			<footer class="footer" style="background-color: #174B7F;">
 				
 
 <nav class="pagination" aria-label="Footer">
@@ -602,6 +602,16 @@ this.&rdquo;</p>
 
     
 
+    
+    <script>
+      var hrs = document.getElementsByTagName('hr');
+
+      for(var i = 0; i < hrs.length; i++){
+        var hr = hrs[i];
+        hr.style.borderColor = "#174B7F";
+      }
+    </script>
+    
     <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/highlight.min.js"></script>
     <script>hljs.initHighlightingOnLoad();</script>
   </body>

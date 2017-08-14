@@ -348,7 +348,7 @@
 				<img src="http://softwarearchitectureforum.com/images/SAF-banner.jpg">
 				</div>
 			
-			<h1>Altitude </h1>
+			<h1 style="border-bottom: 3px solid #174B7F;">Altitude </h1>
 
 			<p>We are at 9,000 feet in Crested Butte so you will feel the altitude. Tips for preventing altitude-hurt:</p>
 
@@ -380,7 +380,7 @@ seems to prevent most of the problems.</p></li>
 				
 			</aside>
 
-			<footer class="footer">
+			<footer class="footer" style="background-color: #174B7F;">
 				
 
 <nav class="pagination" aria-label="Footer">
@@ -493,6 +493,16 @@ seems to prevent most of the problems.</p></li>
 
     
 
+    
+    <script>
+      var hrs = document.getElementsByTagName('hr');
+
+      for(var i = 0; i < hrs.length; i++){
+        var hr = hrs[i];
+        hr.style.borderColor = "#174B7F";
+      }
+    </script>
+    
     <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/highlight.min.js"></script>
     <script>hljs.initHighlightingOnLoad();</script>
   </body>
