@@ -14,6 +14,10 @@
   </url>
   
   <url>
+    <loc>http://softwarearchitectureforum.com/hackathon/</loc>
+  </url>
+  
+  <url>
     <loc>http://softwarearchitectureforum.com/schedule/</loc>
   </url>
   
@@ -53,6 +57,11 @@
   
   <url>
     <loc>http://softwarearchitectureforum.com/contact/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://softwarearchitectureforum.com/hackathon/</loc>
     <priority>0</priority>
   </url>
   
