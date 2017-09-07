@@ -14,11 +14,15 @@
   </url>
   
   <url>
+    <loc>http://softwarearchitectureforum.com/schedule/</loc>
+  </url>
+  
+  <url>
     <loc>http://softwarearchitectureforum.com/hackathon/</loc>
   </url>
   
   <url>
-    <loc>http://softwarearchitectureforum.com/schedule/</loc>
+    <loc>http://softwarearchitectureforum.com/afternoon/</loc>
   </url>
   
   <url>
@@ -43,6 +47,11 @@
   
   <url>
     <loc>http://softwarearchitectureforum.com/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://softwarearchitectureforum.com/afternoon/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
