@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lodging-rsses on Software Architecture Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado Sept 25 - 29, 2017</title>
-    <link>http://SoftwareArchitectureForum.com/lodging/index.xml</link>
-    <description>Recent content in Lodging-rsses on Software Architecture Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado Sept 25 - 29, 2017</description>
+    <title>Lodgings on Software Architecture Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado Aug 27-31, 2018</title>
+    <link>http://softwarearchitectureforum.com/lodging/index.xml</link>
+    <description>Recent content in Lodgings on Software Architecture Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado Aug 27-31, 2018</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://SoftwareArchitectureForum.com/lodging/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://softwarearchitectureforum.com/lodging/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Lodging</title>

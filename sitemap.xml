@@ -6,10 +6,6 @@
   </url>
   
   <url>
-    <loc>http://softwarearchitectureforum.com/</loc>
-  </url>
-  
-  <url>
     <loc>http://softwarearchitectureforum.com/conference-theme/</loc>
   </url>
   
@@ -59,6 +55,76 @@
   
   <url>
     <loc>http://softwarearchitectureforum.com/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://softwarearchitectureforum.com/afternoon/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://softwarearchitectureforum.com/altitude/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://softwarearchitectureforum.com/conference-theme/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://softwarearchitectureforum.com/contact/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://softwarearchitectureforum.com/hackathon/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://softwarearchitectureforum.com/lightning/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://softwarearchitectureforum.com/location/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://softwarearchitectureforum.com/lodging/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://softwarearchitectureforum.com/open-spaces/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://softwarearchitectureforum.com/registration/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://softwarearchitectureforum.com/schedule/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://softwarearchitectureforum.com/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://softwarearchitectureforum.com/travel/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://softwarearchitectureforum.com/venue/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
