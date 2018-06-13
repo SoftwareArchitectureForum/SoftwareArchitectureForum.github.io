@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Travels on Software Architecture Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado Aug 27-31, 2018</title>
-    <link>http://softwarearchitectureforum.com/travel/index.xml</link>
-    <description>Recent content in Travels on Software Architecture Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado Aug 27-31, 2018</description>
+    <title>Travel-rsses on Software Architecture Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado Aug 27-31, 2018</title>
+    <link>http://SoftwareArchitectureForum.com/travel/index.xml</link>
+    <description>Recent content in Travel-rsses on Software Architecture Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado Aug 27-31, 2018</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://softwarearchitectureforum.com/travel/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://SoftwareArchitectureForum.com/travel/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Travel</title>
@@ -82,7 +82,8 @@ get an inexpensive nonstop flight.&lt;/li&gt;
 &lt;li&gt;Coaches can be rented for groups, to take you to Crested Butte&lt;/li&gt;
 &lt;li&gt;Montrose airport (about an hour further away than Gunnison) can sometimes be more
 reliable than Gunnison in the Winter. There are services to bring you from Montrose
-to Crested Butte, or you can rent a car.&lt;/li&gt;
+to Crested Butte, or you can rent a car. Sometimes there are nonstop flights from LAX
+to Montrose.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

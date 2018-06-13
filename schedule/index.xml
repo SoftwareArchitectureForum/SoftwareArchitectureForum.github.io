@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Schedules on Software Architecture Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado Aug 27-31, 2018</title>
-    <link>http://softwarearchitectureforum.com/schedule/index.xml</link>
-    <description>Recent content in Schedules on Software Architecture Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado Aug 27-31, 2018</description>
+    <title>Schedule-rsses on Software Architecture Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado Aug 27-31, 2018</title>
+    <link>http://SoftwareArchitectureForum.com/schedule/index.xml</link>
+    <description>Recent content in Schedule-rsses on Software Architecture Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado Aug 27-31, 2018</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://softwarearchitectureforum.com/schedule/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://SoftwareArchitectureForum.com/schedule/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Schedule</title>
@@ -16,13 +16,14 @@
       <guid>http://softwarearchitectureforum.com/schedule/</guid>
       <description>
 
-&lt;p&gt;&lt;strong&gt;Pre-conference&lt;/strong&gt;: If you arrive early, post something on Slack. If I or others
-are around and available, we might be able to come out for meals or other
-activities.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pre-conference&lt;/strong&gt;: If you arrive early, post something on Slack. If I or
+others are around and available, we might be able to come out for meals or
+other activities. This year, there&amp;rsquo;s an experimental Kotlin training seminar
+the week prior to the forum that you  might want to attend.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Post-conference&lt;/strong&gt;: Often people stay the day after the conference or for the
 weekend; informal gatherings have been known to happen. Sometimes there is
-a post-conference &lt;a href=&#34;http://developer-retreat.com&#34;&gt;Developer Retreat&lt;/a&gt;.&lt;/p&gt;
+a post-conference event, such as a &lt;a href=&#34;http://developer-retreat.com&#34;&gt;Developer Retreat&lt;/a&gt;.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -37,6 +38,10 @@ the corner, and you&amp;rsquo;ll see a little white cargo trailer in front. I us
 have colorful lights on, as well.&lt;/p&gt;
 
 &lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; Later in the summer Crested Butte often experiences &amp;ldquo;Monsoon Season,&amp;rdquo;
+when it is clear in the morning and rains in the afternoon. If this happens we
+will adjust the schedule to do outdoor things in the morning.&lt;/p&gt;
 
 &lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
 

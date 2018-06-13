@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Afternoons on Software Architecture Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado Aug 27-31, 2018</title>
-    <link>http://softwarearchitectureforum.com/afternoon/index.xml</link>
-    <description>Recent content in Afternoons on Software Architecture Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado Aug 27-31, 2018</description>
+    <title>Afternoon-rsses on Software Architecture Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado Aug 27-31, 2018</title>
+    <link>http://SoftwareArchitectureForum.com/afternoon/index.xml</link>
+    <description>Recent content in Afternoon-rsses on Software Architecture Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado Aug 27-31, 2018</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://softwarearchitectureforum.com/afternoon/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://SoftwareArchitectureForum.com/afternoon/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Afternoon Activities</title>
@@ -14,7 +14,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://softwarearchitectureforum.com/afternoon/</guid>
-      <description>&lt;p&gt;During conference days (Monday, Tuesday, Thursday and Friday), the afternoons
+      <description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; Later in the summer Crested Butte often experiences &amp;ldquo;Monsoon Season,&amp;rdquo;
+when it is clear in the morning and rains in the afternoon. If this happens we
+will adjust the schedule to do outdoor things in the morning.&lt;/p&gt;
+
+&lt;p&gt;During conference days (Monday, Tuesday, Thursday and Friday), the afternoons
 are unscheduled time. There are numerous options. Note that, although some of
 these look like pure recreation, we have some of our most interesting
 discussions once the structure and constraints are completely removed.&lt;/p&gt;

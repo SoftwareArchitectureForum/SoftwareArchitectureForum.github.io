@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Registrations on Software Architecture Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado Aug 27-31, 2018</title>
-    <link>http://softwarearchitectureforum.com/registration/index.xml</link>
-    <description>Recent content in Registrations on Software Architecture Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado Aug 27-31, 2018</description>
+    <title>Registration-rsses on Software Architecture Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado Aug 27-31, 2018</title>
+    <link>http://SoftwareArchitectureForum.com/registration/index.xml</link>
+    <description>Recent content in Registration-rsses on Software Architecture Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado Aug 27-31, 2018</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://softwarearchitectureforum.com/registration/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://SoftwareArchitectureForum.com/registration/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Registration</title>
@@ -14,39 +14,37 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://softwarearchitectureforum.com/registration/</guid>
-      <description>
-
-&lt;p&gt;If you&amp;rsquo;ve previously attended any of the Crested
+      <description>&lt;p&gt;If you&amp;rsquo;ve previously attended any of the Crested
 Butte events and need a break on the fee,
 &lt;a href=&#34;https://softwarearchitectureforum.github.io/contact/&#34;&gt;make a
 request&lt;/a&gt;. Don&amp;rsquo;t let the fee be the reason you can&amp;rsquo;t attend.&lt;/p&gt;
 
-&lt;h2 id=&#34;registration-is-not-yet-open&#34;&gt;&lt;em&gt;Registration is not yet open&lt;/em&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p style=&#34;font-size:20px&#34;&gt;First,
+&lt;a href=&#34;https://join.slack.com/t/safconf/shared_invite/enQtMzgwNjYxNTAxMTA1LTc1NTI1ZWE3YWQ0ZGMyZTM1YWEwODU3ZTQwMTk3ZjU5NDkxYTY3YTYyOTYyMTM0NDEyOTUzOTRmYTRjOWFiNTk&#34;&gt;Join the Slack Group&lt;/a&gt;
+&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;!--
-- &lt;p style=&#34;font-size:20px&#34;&gt;First,
-&lt;a href=&#34;https://twistapp.com/j/c59781535f0eb0a231f5a942536d7577&#34;&gt;Join the Twist Group&lt;/a&gt;
-&lt;/p&gt;
-
-This is the central information hub before, during and after the conference. You
+&lt;p&gt;This is the central information hub before, during and after the conference. You
 can post any questions about the conference including those about ride sharing
-and group house rentals.
+and group house rentals.&lt;/p&gt;
 
-
-- &lt;p style=&#34;font-size:20px&#34;&gt;Next:
-&lt;form action=&#34;https://ti.to/mindview/software-architecture-forum-2017&#34;
-      method=&#34;get&#34; target=&#34;_blank&#34;&gt;
-    &lt;input type=&#34;submit&#34; value=&#34;Registration Payment&#34;
-         name=&#34;Submit&#34; id=&#34;frm1_submit&#34;
-         style=&#34;background:#1A4C7D;
-                color: white;
-                cursor:pointer;
-                font-size:20px;
-                padding: 14px 40px;
-                border-radius: 12px;&#34;
-    /&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p style=&#34;font-size:20px&#34;&gt;Next:
+&lt;form action=&#34;https://ti.to/mindview/software-architecture-forum-2018&#34;
+  method=&#34;get&#34; target=&#34;_blank&#34;&gt;
+&lt;input type=&#34;submit&#34; value=&#34;Registration Payment&#34;
+     name=&#34;Submit&#34; id=&#34;frm1_submit&#34;
+     style=&#34;background:#1A4C7D;
+            color: white;
+            cursor:pointer;
+            font-size:20px;
+            padding: 14px 40px;
+            border-radius: 12px;&#34;
+/&gt;
 &lt;/form&gt;
-&lt;/p&gt; --&gt;
+&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

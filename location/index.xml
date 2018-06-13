@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Locations on Software Architecture Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado Aug 27-31, 2018</title>
-    <link>http://softwarearchitectureforum.com/location/index.xml</link>
-    <description>Recent content in Locations on Software Architecture Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado Aug 27-31, 2018</description>
+    <title>Location-rsses on Software Architecture Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado Aug 27-31, 2018</title>
+    <link>http://SoftwareArchitectureForum.com/location/index.xml</link>
+    <description>Recent content in Location-rsses on Software Architecture Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado Aug 27-31, 2018</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://softwarearchitectureforum.com/location/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://SoftwareArchitectureForum.com/location/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Location</title>
@@ -35,18 +35,18 @@ hiking and mountain biking in the summer.&lt;/p&gt;
 2&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;We hold the event in town, and free buses run up to the ski mountain
-every 15 minutes.&lt;/p&gt;
-
-&lt;p&gt;We hold the event in downtown Crested Butte &amp;ndash; note that you should try to
-stay downtown and not on the mountain, so you can just walk everywhere.&lt;/p&gt;
+&lt;p&gt;Although free buses run up to the ski mountain every 15 minutes (so you can
+find lodging there), we hold the event in downtown Crested Butte. People
+generally have a better time staying downtown (&lt;em&gt;The Town of Crested Butte&lt;/em&gt;) and
+not on the mountain (&lt;em&gt;The Town of MOUNT Crested Butte&lt;/em&gt;). This way, you can just
+walk everywhere.&lt;/p&gt;
 
 &lt;p&gt;Internet is available in the conference location and at several locations
 within easy walking distance of the conference location.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Restaurants:&lt;/strong&gt;
 &lt;a href=&#34;http://www.downtowncrestedbutte.com/restaurants-in-crested-butte/&#34;&gt;This&lt;/a&gt;
-is a reasonably accurate list. &lt;a href=&#34;http://djangos.us/&#34;&gt;Django&amp;rsquo;s&lt;/a&gt;.&lt;/p&gt;
+is a reasonably accurate list.&lt;/p&gt;
 </description>
     </item>
     
